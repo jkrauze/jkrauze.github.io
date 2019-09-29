@@ -28,7 +28,7 @@ url: "https://jkrauze.github.io" # the base hostname & protocol for your site, e
 github_username:  jkrauze
 
 # Build settings
-theme: huangyz0918/moving
+remote_theme: huangyz0918/moving
 plugins:
   - jekyll-feed
 
